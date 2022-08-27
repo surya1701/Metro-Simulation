@@ -16,3 +16,12 @@ The project aims to simluate, assess and evaluate metro networks in metropolitan
 [![Youtube demo](https://img.youtube.com/vi/KU5OnhZjZOM/0.jpg)](https://www.youtube.com/watch?v=KU5OnhZjZOM)
 
 The presentation used in the video has been added to the repository.
+
+## Sim Model details
+<p float="left">
+<img src="images/Figure1.jpeg" width="25%">
+<img src="images/Figure2.jpeg" width="35%">
+</p>
+<p float="left">
+<img src="images/Variables.png" width="45%">
+</p>
